@@ -4,6 +4,10 @@
 
 ![A short demonstration running a program that prints "B" to the screen.](demo.gif)
 
+Also check out the YouTube [video](https://www.youtube.com/watch?v=B2hYcBd5Cew)!
+
+[![The YouTube video](https://i3.ytimg.com/vi/B2hYcBd5Cew/hqdefault.jpg)](https://www.youtube.com/watch?v=B2hYcBd5Cew)
+
 # Manual
 
 `hexrun` is actually a hexadecimal editor which, once booted, allows you to edit the entire memory segment `0x0fe0`: the logical addresses between `0xfe00` and `0x1fdff` are all yours!
